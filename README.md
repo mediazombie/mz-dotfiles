@@ -21,7 +21,7 @@ To install all the tools, follow the instructions on the responsible websites (s
 After that, replace the dotfiles/config-files with the ones from this repository.
 - replace `~/.zshrc` with the one from this repo
 - replace `~/.config/kitty/kitty.conf` and `~/.config/kitty/current-theme.conf` with the ones from the repo
->[!NOTE] Note
+>[!NOTE] 
 >You can also follow the instructions from the tools like [zsh], [kitty], [oh my zsh] and [powerlevel10k] to make your own config.
 ## License
 MIT
