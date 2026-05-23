@@ -7,7 +7,7 @@
  <img alt="banner_04" src="https://img.shields.io/github/languages/count/mediazombie/mz-dotfiles?color=%23ABEBC6&style=for-the-badge" />
 </p>
 
-This are my dotfiles with configurations of some tools I have in daily use. At the moment there are only configs for kitty (terminal emulator) and the zsh shell.
+This are my personal dotfiles I use to configure [kitty](https://sw.kovidgoyal.net/kitty/) terminal and the [kitty](https://sw.kovidgoyal.net/kitty/) shell. This repo is primarily used to transfer this files to my other PCs.
 
 <p align="center">
   <img alt="preview" src="./assets/preview.png" />
