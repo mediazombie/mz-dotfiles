@@ -1,6 +1,19 @@
 # mz-dotfiles
+
+<p align="center">
+ <img alt="banner_01" src="https://img.shields.io/github/last-commit/mediazombie/mz-dotfiles?color=%23AED6F1&style=for-the-badge" />
+ <img alt="banner_02" src="https://img.shields.io/github/license/mediazombie/mz-dotfiles?color=%23EAECEE&style=for-the-badge" />
+ <img alt="banner_03" src="https://img.shields.io/github/languages/top/mediazombie/mz-dotfiles?color=%23F9E79F&style=for-the-badge" />
+ <img alt="banner_04" src="https://img.shields.io/github/languages/count/mediazombie/mz-dotfiles?color=%23ABEBC6&style=for-the-badge" />
+</p>
+
 This are my dotfiles with configurations of some tools I have in daily use. At the moment there are only configs for kitty (terminal emulator) and the zsh shell.
-## Getting started
+
+<p align="center">
+  <img alt="preview" src="./assets/preview.png" />
+</p>
+
+## 💡 Getting started
 ### Prerequisites
 - [zsh](https://www.zsh.org/) must be installed
     - please run `zsh --version` to confirm
@@ -16,12 +29,18 @@ For best use of my [zsh] and [kitty] dotfiles/config-files the following tools a
 - [oh my zsh](https://github.com/ohmyzsh/ohmyzsh) for managing the [zsh] configuration
 - [powerlevel10k](https://github.com/romkatv/powerlevel10k) as nice [zsh] theme
 - do not forget to install some [Nerd-Fonts](https://github.com/ryanoasis/nerd-fonts/releases/tag/v3.4.0) like Meslo (as used in my config). The user fonts are usually stored under `~/.local/share/fonts` or system wide `/usr/share/fonts/` or `/usr/local/share/fonts/`.
-## Installation
+
+## 💾 Installation
 To install all the tools, follow the instructions on the responsible websites (see links above).
 After that, replace the dotfiles/config-files with the ones from this repository.
+
+>[!WARNING]
+>Before you replace your dot- and config-files, please make sure you have a backup copy of your own files. The author is not liable for corrupted configurations!
+
 - replace `~/.zshrc` with the one from this repo
 - replace `~/.config/kitty/kitty.conf` and `~/.config/kitty/current-theme.conf` with the ones from the repo
 >[!NOTE] 
 >You can also follow the instructions from the tools like [zsh], [kitty], [oh my zsh] and [powerlevel10k] to make your own config.
-## License
-MIT
+
+## 📑 License
+This project is released under the terms of the MIT license. The MIT license allows users to use, copy, modify and distribute the source code of the project with certain restrictions and requirements. For more information, please refer to the license file included with this project or visit https://opensource.org/licenses/MIT.
