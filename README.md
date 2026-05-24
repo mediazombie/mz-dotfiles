@@ -7,7 +7,7 @@
  <img alt="banner_04" src="https://img.shields.io/github/languages/count/mediazombie/mz-dotfiles?color=%23ABEBC6&style=for-the-badge" />
 </p>
 
-This are my personal dotfiles I use to configure [kitty](https://sw.kovidgoyal.net/kitty/) terminal and the [zsh](https://www.zsh.org/) shell. This repo is primarily used to transfer this files to my other PCs.
+This are my personal dotfiles I use to configure [kitty](https://sw.kovidgoyal.net/kitty/) terminal and the [zsh](https://www.zsh.org/) shell. This repo is primarily used to transfer this files to my other PCs. The wallpaper, which shines through the slightly transparent terminal window, can be found [here](https://4kwallpapers.com/black-dark/muichiro-tokito-22499.html).
 
 <p align="center">
   <img alt="preview" src="./assets/preview.png" />
