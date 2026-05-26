@@ -18,10 +18,11 @@ This are my personal dotfiles I use to configure [kitty](https://sw.kovidgoyal.n
 - [zsh](https://www.zsh.org/) must be installed
     - please run `zsh --version` to confirm
     - expected result: `zsh 5.0.8` or more recent
-- zsh should be set as default shell
+- [zsh](https://www.zsh.org/) should be set as default shell
     - run `echo $SHELL`from a new terminal window
     - expected result `/usr/bin/zsh`or similar
-    - to make zsh your default shell, use `chsh -s $(which zsh)` or on Fedora use `sudo chsh $USER`
+    - to check which shells are available on your system, use `cat /etc/shells`
+    - to make zsh your default shell, use `chsh` (without parameters), `chsh -s /usr/bin/zsh`, `chsh -s $(which zsh)` or on Fedora use `sudo chsh $USER` or `sudo usermod -s /bin/zsh $USER` (Fedora needs `sudo` because of security restrictions)
 - [kitty](https://sw.kovidgoyal.net/kitty/) must be installed
     - install it as described on the website
 ### Additional
